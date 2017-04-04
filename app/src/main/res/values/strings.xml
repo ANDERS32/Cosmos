@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Cosmos</string>
+
+    <!--Messenger screen-->
+    <string name="messenger_open">Messenger</string>
+    <string name="messenger_hint_message">Введите сообщение</string>
+    <string name="messenger_text_send">Отправить</string>
 </resources>
